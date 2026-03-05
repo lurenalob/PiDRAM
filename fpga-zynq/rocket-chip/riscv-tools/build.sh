@@ -2,7 +2,6 @@
 #
 # Script to build RISC-V ISA simulator, proxy kernel, and GNU toolchain.
 # Tools will be installed to $RISCV.
-
 . build.common
 
 echo "Starting RISC-V Toolchain build process"
